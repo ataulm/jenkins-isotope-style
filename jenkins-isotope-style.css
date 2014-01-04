@@ -1,12 +1,6 @@
 body {
-  background: #63818a;
-  background: -moz-linear-gradient(top, #B8CECF 0%, #73939b 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #B8CECF), color-stop(100%, #73939b));
-  background: -webkit-linear-gradient(top, #B8CECF 0%, #73939b 100%);
-  background: -o-linear-gradient(top, #B8CECF 0%, #73939b 100%);
-  background: -ms-linear-gradient(top, #B8CECF 0%, #73939b 100%);
-  background: linear-gradient(top, #B8CECF 0%, #73939b 100%);
-  color: #333;
+  background: rgb(255,255,255);
+  color: rgb(100,100,100);
   }
 
 h1, h2, h3, h4, h5, h6 {
