@@ -5,7 +5,9 @@ body {
   background: -webkit-linear-gradient(top, #B8CECF 0%, #73939b 100%);
   background: -o-linear-gradient(top, #B8CECF 0%, #73939b 100%);
   background: -ms-linear-gradient(top, #B8CECF 0%, #73939b 100%);
-  background: linear-gradient(top, #B8CECF 0%, #73939b 100%); }
+  background: linear-gradient(top, #B8CECF 0%, #73939b 100%);
+  color: #333;
+  }
 
 h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
