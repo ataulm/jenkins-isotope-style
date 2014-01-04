@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #top-panel {
   background: none; }
-  #top-panel td#login-field span a {
+  #top-panel td#login-field span, #top-panel td#login-field span a {
     background: none;
     color: inherit;
   }
